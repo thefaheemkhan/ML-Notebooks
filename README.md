@@ -1,4 +1,4 @@
-# Machine Learning Speacialization Coursera 
+# Deep Learning Speacialization Coursera 
 
 #### This is the detailed explanation on ML speacilaization course from coursera.
 This course is divided into 3 parts:
