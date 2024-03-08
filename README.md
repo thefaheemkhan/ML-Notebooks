@@ -2,11 +2,7 @@
 
 ## Tensorflow, Keras, and Pytorch.
 
-#### This is the repo where we learn about Deep Learning and Deep learning Models.
-with the help of deep learning frameworks:
-Tensorflow
-Keras
-Pytorch
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
