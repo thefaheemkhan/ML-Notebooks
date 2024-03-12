@@ -1,6 +1,14 @@
 # Deep Learning 101
 
-## Tensorflow, Keras, and Pytorch.
+#### Day 1:
+1. Perceptron
+2. Multi-Layer Perceptron
+3. Forward Propagation and Backword Propagation
+4. Gradient Descent and Loss Functions
+5. Vanishing Gradient and Exploding Gradient
+
+#### Day 2:
+
 
 
 
