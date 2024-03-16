@@ -8,8 +8,7 @@
 5. Vanishing Gradient and Exploding Gradient
 
 #### Day 2:
-
-
+1. Improve the performance of Neural Network
 
 
 
