@@ -1,17 +1,5 @@
 # Deep Learning 101
-
-#### Phase 1:
-1. Perceptron
-2. Multi-Layer Perceptron
-3. Forward Propagation and Backword Propagation
-4. Gradient Descent and Loss Functions
-5. Vanishing Gradient and Exploding Gradient
-
-#### Phase 2:
-1. Improve the performance of Neural Network
-
-#### Phase 3:
-1. Convolutional Neural Network
+This is followed by the Coursera Deep learning Specialization course 
 
 
 
