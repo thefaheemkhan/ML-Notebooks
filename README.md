@@ -1,7 +1,7 @@
 # Deep Learning 101
 Deep Learning (DL101) Repository contains a one-stop solution for modern-day Deep learning. This repo contains Resources and Explanations for Deep Learning Algorithms and Models with Explanations and Implementations.
 
-
+## Day 1 DL101
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ### Git commands to update this repo:
