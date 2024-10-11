@@ -1,9 +1,6 @@
 # Deep Learning 101
-Deep Learning (DL101) Repository contains a one-stop solution for modern-day Deep learning. This repo contains Resources and Explanations for Deep Learning Algorithms and Models with Explanations and Implementations.
 
-## Artificial Neural Network
-## Convolutional Neural Network
-## Recurrent Neural Network
+1. Andrez karpathy Neural Network Zero-to-Hero : https://karpathy.ai/zero-to-hero.html
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ### Git commands to update this repo:
