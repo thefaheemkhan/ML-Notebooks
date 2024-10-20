@@ -4,9 +4,11 @@
 
 ## Practical Courses
 
-### 1. Andrez Karpathy Zero-to-Hero in Neural Networks Course on Youtube. [click here](https://karpathy.ai/zero-to-hero.html)
-### 2. Practical Deep Learning by fast.ai. [click here](https://www.fast.ai/)
-### 3. Full Stack deep Learning. [click here](https://fullstackdeeplearning.com/course/)
+1. Andrez Karpathy Zero-to-Hero in Neural Networks Course on Youtube. [click here](https://karpathy.ai/zero-to-hero.html)
+2. Practical Deep Learning by fast.ai. [click here](https://www.fast.ai/)
+3. Full Stack Deep Learning. [click here](https://fullstackdeeplearning.com/course/)
+4. Tensorflow A to Z course on Udemy. [click here](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
+5. Pytorch A to Z course on Udemy. [click here](https://www.udemy.com/course/pytorch-for-deep-learning/?couponCode=KEEPLEARNING)
 
 
 
