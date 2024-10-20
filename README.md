@@ -4,10 +4,8 @@
 
 ## Practical Courses
 
-### 1. Andrez Karpathy Zero-to-Hero in Neural Networks Course on Youtube --> [Link](https://karpathy.ai/zero-to-hero.html)
-link-> https://karpathy.ai/zero-to-hero.html
+### 1. Andrez Karpathy Zero-to-Hero in Neural Networks Course on Youtube. [Click here](https://karpathy.ai/zero-to-hero.html)
 ### 2. Practical Deep Learning by fast.ai
-link-> 
 
 
 
