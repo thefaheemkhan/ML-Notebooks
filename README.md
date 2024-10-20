@@ -6,8 +6,7 @@
 2. Video Lectures: https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 3. Campusx Deep Learning Playlist and Roadmap
 
-## Books
-1. Deep Learning Book: https://www.deeplearningbook.org/
+
 
 
 
