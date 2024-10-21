@@ -12,7 +12,7 @@
 
 
 ## Youtube playlist
-1. Deep Learning Campusx
+1. Deep Learning Campusx [click here](https://www.youtube.com/watch?v=2dH_qjc9mFg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=1)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
