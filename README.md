@@ -11,7 +11,8 @@
 5. Pytorch A to Z course on Udemy. [click here](https://www.udemy.com/course/pytorch-for-deep-learning/?couponCode=KEEPLEARNING)
 
 
-
+## Youtube playlist
+1. Deep Learning Campusx
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
