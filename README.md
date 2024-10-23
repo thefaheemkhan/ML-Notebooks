@@ -16,6 +16,7 @@
 2. Andrez Karpathy Zero-to-Hero in Neural Networks Course on Youtube. [click here](https://karpathy.ai/zero-to-hero.html)
 3. Natural language Processing
 4. Computer Vision
+5. Generative AI 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
