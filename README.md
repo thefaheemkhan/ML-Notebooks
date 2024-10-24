@@ -14,9 +14,9 @@
 ## Youtube playlist
 1. Deep Learning Campusx [click here](https://www.youtube.com/watch?v=2dH_qjc9mFg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=1)
 2. Andrez Karpathy Zero-to-Hero in Neural Networks Course on Youtube. [click here](https://karpathy.ai/zero-to-hero.html)
-3. Natural Language Processing
-4. Large Language Model LLM
-5. Computer Vision
+3. Natural Language Processing Standford
+4. Large Language Model LLM Standford
+5. Computer Vision Standford
 6. Generative AI 
 
 
