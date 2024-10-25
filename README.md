@@ -18,6 +18,10 @@
 5. Generative AI [click here](#)
 
 
+## Deep Learning Roadmap
+1. Artificial Neural Network
+2. Convolutional Neural Network
+
 ----------------------------------------------------------------------------------------------------------------------------------
 ### Git commands to update this repo:
 1. git init
