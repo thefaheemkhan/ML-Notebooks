@@ -15,7 +15,7 @@
 1. Deep Learning Campusx [click here](https://www.youtube.com/watch?v=2dH_qjc9mFg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=1)
 3. Natural Language Processing Standford [click here](#)
 4. Computer Vision Standford [click here](#)
-5. Generative AI 
+5. Generative AI [click here](#)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
