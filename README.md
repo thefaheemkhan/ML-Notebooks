@@ -21,6 +21,7 @@
 ## Deep Learning Roadmap
 1. Artificial Neural Network
 2. Convolutional Neural Network
+3. Recurrent Neural Network
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ### Git commands to update this repo:
