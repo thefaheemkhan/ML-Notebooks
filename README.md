@@ -16,7 +16,6 @@
 3. Natural Language Processing Standford [click here](#)
 4. Computer Vision Standford [click here](#)
 5. Generative AI [click here](#)
-6. 
 
 
 ## Deep Learning Roadmap
