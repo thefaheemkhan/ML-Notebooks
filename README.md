@@ -22,7 +22,7 @@
 1. Artificial Neural Network
 2. Convolutional Neural Network
 3. Recurrent Neural Network
-4. 
+4. Improving Neural Networks
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ### Git commands to update this repo:
